@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ATHigh
+- 👋 Hi, I’m Roman, student of ITMO university
 - 👀 I’m interested in Analysis and Programming
 - 🌱 I’m currently learning Machine Learning
 
